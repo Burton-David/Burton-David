@@ -68,14 +68,4 @@ I'm **David Burton**, a Data Scientist with a knack for turning data into action
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burton-David&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Projects
 
-- [Project 1](https://github.com/Burton-David/Project1): Brief description of the project.
-- [Project 2](https://github.com/Burton-David/Project2): Brief description of the project.
-- [Project 3](https://github.com/Burton-David/Project3): Brief description of the project.
-
-## 📝 Blog Posts
-
-- [Title of Blog Post 1](https://yourblog.com/post1)
-- [Title of Blog Post 2](https://yourblog.com/post2)
-- [Title of Blog Post 3](https://yourblog.com/post3)
