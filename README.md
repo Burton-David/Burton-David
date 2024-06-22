@@ -12,9 +12,9 @@ I'm **David Burton**, a Data Scientist with a knack for turning data into action
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/burton-david)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yourusername)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?logo=wordpress&logoColor=white&style=flat-square)](https://yourblog.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/burton-david1/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/trvlingteacher)
+[![Blog](https://img.shields.io/badge/-Blog-21759B?logo=wordpress&logoColor=white&style=flat-square)]((https://www.databurton.com/))
 
 ## 🛠️ Toolset & Skills
 
