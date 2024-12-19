@@ -1,23 +1,40 @@
 # Hi there! 👋
-
 I'm **David Burton**, a Data Scientist with a knack for turning data into actionable insights. I've worked across various industries, always focusing on using data to drive smart decisions and streamline operations.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Burton-David&style=flat-square)
 
-## 📝 Summary
+## 💼 Portfolio
 
+1. **Fraud-Detection**
+   * **URL:** https://github.com/Burton-David/Fraud-Detection
+   * **Summary:** This repository contains a compilation of useful code for fraud detection, including scripts for comparing algorithms, auto-tuning models, and a basic neural network implementation.
+
+2. **NLP-Natural-Language-Processing**
+   * **URL:** https://github.com/Burton-David/NLP-Natural-Language-Processing
+   * **Summary:** This repository provides commonly used code and examples for NLP projects, covering data loading, preprocessing, feature extraction, machine learning models, and evaluation metrics.
+
+3. **ldes-data-pipeline**
+   * **URL:** https://github.com/Burton-David/ldes-data-pipeline
+   * **Summary:** This project implements an AI-based data structuring pipeline for Long Duration Energy Storage (LDES) projects and other sectors of the climate economy, utilizing NLP techniques for data ingestion and processing.
+
+4. **datascience-projects**
+   * **URL:** https://github.com/Burton-David/datascience-projects
+   * **Summary:** This repository serves as a portfolio from the Flatiron Data Science program, demonstrating basic understandings of data science techniques through various projects.
+
+5. **ChineseLanguageLearnNLP**
+   * **URL:** https://github.com/Burton-David/ChineseLanguageLearnNLP
+   * **Summary:** This project focuses on data mining, natural language processing, machine learning translation, and Google Cloud integration, particularly in the context of learning the Chinese language.
+
+## 📝 Summary
 - **Current Projects**: Enhancing lead generation and sales targeting at BTL Industries.
 - **Learning**: Advanced machine learning techniques and AI.
 - **Tidbits**: Passionate about continuous learning and integrating new technologies into my workflow.
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/david-burton1/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/trvlingteacher)
 [![Blog](https://img.shields.io/badge/-Blog-21759B?logo=wordpress&logoColor=white&style=flat-square)](https://www.databurton.com/)
 
 ## 🛠️ Toolset & Skills
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -61,11 +78,7 @@ I'm **David Burton**, a Data Scientist with a knack for turning data into action
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Burton-David&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 Top Languages
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burton-David&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
