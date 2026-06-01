@@ -8,7 +8,7 @@ Background: peer-reviewed clinical-data analysis, live options-trading systems, 
 production ML for healthcare, biotech, and finance clients. Now focused on agents you
 can actually trust to deploy.
 
-🌐 [databurton.com](https://databurton.com)
+📍 New York, NY / San Diego, CA (bicoastal) · 🌐 [databurton.com](https://databurton.com)
 
 ---
 
